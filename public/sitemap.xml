@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/categories/</loc>
+    <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/tags/blog/</loc>
+    <lastmod>2022-04-20T09:47:54+02:00</lastmod>
   </url><url>
     <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/</loc>
+    <lastmod>2022-04-20T09:47:54+02:00</lastmod>
+  </url><url>
+    <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/</loc>
+    <lastmod>2022-04-20T09:47:54+02:00</lastmod>
+  </url><url>
+    <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/tags/story/</loc>
+    <lastmod>2022-04-20T09:47:54+02:00</lastmod>
   </url><url>
     <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/tags/</loc>
+    <lastmod>2022-04-20T09:47:54+02:00</lastmod>
+  </url><url>
+    <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/my-first-post/</loc>
+    <lastmod>2022-04-20T09:47:54+02:00</lastmod>
+  </url><url>
+    <loc>https://lassebredmose.github.io/biking-to-a-cleaner-future/categories/</loc>
   </url>
 </urlset>
