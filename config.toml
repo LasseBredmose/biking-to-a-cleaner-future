@@ -1,4 +1,4 @@
 baseURL = "https://lassebredmose.github.io/biking-to-a-cleaner-future/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hello World'
 theme = "ananke"
