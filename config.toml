@@ -1,4 +1,6 @@
 baseURL = "https://lassebredmose.github.io/biking-to-a-cleaner-future/"
 languageCode = 'en-us'
-title = 'Hello World'
+title = "Project Title"
+description = "This is a project description"
+relativeURLs = true
 theme = "ananke"
