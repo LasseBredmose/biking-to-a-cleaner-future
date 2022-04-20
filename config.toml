@@ -1,4 +1,4 @@
-baseURL = "https://LasseBredmose.github.io/biking-to-a-cleaner-future/"
+baseURL = "https://lassebredmose.github.io/biking-to-a-cleaner-future/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
