@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Project Title</title>
     <link>https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Project Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 09:47:54 +0200</lastBuildDate><atom:link href="https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This better works...</title>
-      <link>https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/my-first-post/</link>
-      <pubDate>Wed, 20 Apr 2022 09:47:54 +0200</pubDate>
+      <title></title>
+      <link>https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/third_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://lassebredmose.github.io/biking-to-a-cleaner-future/posts/third_post/</guid>
+      <description>pplllllssss</description>
     </item>
     
   </channel>
